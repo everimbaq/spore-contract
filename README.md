@@ -64,4 +64,4 @@ In addition, using Mutant contract requires the binary of Lua library. Informati
 
 ## Deployment
 
-We provided a simple bash script to operate deployment through `ckb-cli` toolchain, details refer to [here](https://github.com/sporeprotocol/spore-contract/tree/master/deployment)
+We provided a simple bash 1script to operate deployment through `ckb-cli` toolchain, details refer to [here](https://github.com/sporeprotocol/spore-contract/tree/master/deployment)
