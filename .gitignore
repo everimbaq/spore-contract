@@ -12,6 +12,7 @@ build/*
 
 .idea/
 
+#
 # generated from build.rs
 contracts/cluster/src/hash.rs
 contracts/cluster_agent/src/hash.rs
